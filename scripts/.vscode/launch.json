@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "extendscript-debug",
+            "request": "launch",
+            "targetSpecifier": "indesign-16.064",
+            "name": "Sesión 1 Typenerd",
+            "program": "${workspaceFolder}/typenerd-01.jsx",
+            "stopOnEntry": false
+        }
+    ]
+}
